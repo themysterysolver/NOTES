@@ -18,6 +18,7 @@
 - [JS](https://github.com/themysterysolver/HTML-CSS-and-JS/tree/main/JSS)
 - [CSS](https://github.com/themysterysolver/HTML-CSS-and-JS/tree/main/CSS)
 - [mern](https://github.com/themysterysolver/MERN/tree/main/Study%20Material)
+- [authentication](https://github.com/themysterysolver/AUTHENTICATION-PAGE/tree/main/NOTES)
 
 ---
 
