@@ -5,6 +5,14 @@
 
 ---
 
+## Projects
+
+- [THREE.JS](https://github.com/themysterysolver/STIMULUS/blob/main/the_making.md)
+- [STIMULUS](https://github.com/themysterysolver/STIMULUS/blob/main/the_making.md)
+- [Chrome extenison mini sudoko](https://github.com/themysterysolver/LINKEDIN-MINI-SUDOKO-SOLVER/blob/main/MINI_SUDOKO_EXTENSION/main.js)
+
+---
+
 ## Web dev
 
 - [JS](https://github.com/themysterysolver/HTML-CSS-and-JS/tree/main/JSS)
