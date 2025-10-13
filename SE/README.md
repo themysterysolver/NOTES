@@ -280,6 +280,91 @@ Scrum defines **5 time-boxed events**:
 
 ---
 
+# Agile devlopment
+
+**Agile practices** are **methods and techniques** used in software development (and increasingly in other fields) to deliver products **quickly, efficiently, and adaptively**. They emphasize **collaboration, flexibility, and continuous improvement**.
+
+Here’s a clear breakdown:
+
+---
+
+### 🔹 **Core Agile Practices**
+
+1. **Iterative Development**
+
+   * Work is divided into **small increments** called **sprints** (usually 1–4 weeks).
+   * Each sprint produces a **potentially shippable product**.
+
+2. **Daily Stand-ups (Scrum Meetings)**
+
+   * Short meetings (10–15 minutes) where team members discuss:
+
+     * What they did yesterday
+     * What they plan to do today
+     * Any blockers or issues
+
+3. **Backlog Management**
+
+   * **Product Backlog:** A prioritized list of features, enhancements, and bug fixes.
+   * **Sprint Backlog:** Items selected from the product backlog for the current sprint.
+
+4. **Continuous Integration & Continuous Delivery (CI/CD)**
+
+   * Code changes are **frequently integrated** into the main branch.
+   * Automated testing and deployment ensure faster, reliable releases.
+
+5. **Test-Driven Development (TDD)**
+
+   * Write **tests before writing code**.
+   * Ensures code meets requirements and reduces bugs.
+
+6. **Pair Programming**
+
+   * Two developers work together at one workstation: one writes code, the other reviews in real-time.
+
+7. **Retrospectives**
+
+   * After each sprint, the team reflects on:
+
+     * What went well
+     * What didn’t
+     * How to improve next time
+
+8. **User Stories & Acceptance Criteria**
+
+   * Features are described from the **user’s perspective**:
+
+     > “As a [user], I want [feature] so that [benefit].”
+   * Acceptance criteria define when a story is considered **done**.
+
+9. **Kanban Boards / Visual Management**
+
+   * Tracks work items in columns like **To Do → In Progress → Done**.
+   * Helps visualize workflow and bottlenecks.
+
+10. **Continuous Feedback**
+
+    * Frequent demos or releases allow stakeholders to provide **early feedback**, reducing wasted effort.
+
+---
+
+### 🔹 **Agile Principles Behind the Practices**
+
+* Customer collaboration over contract negotiation
+* Responding to change over following a fixed plan
+* Working software over comprehensive documentation
+* Individuals and interactions over processes and tools
+
+---
+
+**In short:**
+
+> Agile practices are **techniques that help teams work incrementally, collaborate closely, adapt to change, and deliver value continuously**.
+
+If you want, I can make a **compact diagram showing all key Agile practices in one view**, which is great for quick understanding. Do you want me to do that?
+
+---
+
 Agile Development is a **software development methodology** that emphasizes flexibility, collaboration, customer satisfaction, and rapid delivery of small, working software increments. Instead of following a rigid plan like the traditional **Waterfall model**, Agile promotes **adaptive planning**, **iterative progress**, and **continuous feedback**.
 
 Here’s a detailed breakdown:
