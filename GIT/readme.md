@@ -201,3 +201,80 @@ git revert <commit>          # Undo commit (safe, creates new commit)
 4. `git push origin branch-name` → upload changes
 
 ---
+
+
+In **Git**, the term **`origin`** is simply a **default name** given to the **remote repository** from which your local repository was **cloned** (or the one you connect to).
+
+Here’s a breakdown 👇
+
+---
+
+### 🔹 **Definition**
+
+`origin` = *a shorthand alias* for the **remote repository URL** (like GitHub, GitLab, or Bitbucket).
+
+When you clone a repo like this:
+
+```bash
+git clone https://github.com/user/project.git
+```
+
+Git automatically:
+
+* Creates a **local copy** of the repo.
+* Sets up a **remote connection** named `origin` pointing to that URL.
+
+---
+
+### 🔹 **Example**
+
+You can check the remote connection with:
+
+```bash
+git remote -v
+```
+
+Output might be:
+
+```
+origin  https://github.com/user/project.git (fetch)
+origin  https://github.com/user/project.git (push)
+```
+
+Here:
+
+* `origin` → the alias (short name)
+* `https://github.com/user/project.git` → the actual repository URL
+
+---
+
+### 🔹 **Usage in Commands**
+
+You often see `origin` used in commands like:
+
+| Command                | Meaning                                                         |
+| ---------------------- | --------------------------------------------------------------- |
+| `git fetch origin`     | Get updates from the remote repo.                               |
+| `git push origin main` | Push local `main` branch to the remote `main` branch.           |
+| `git pull origin main` | Pull the latest changes from remote `main` into your local one. |
+
+---
+
+### 🔹 **You can rename it**
+
+`origin` is not special — it’s just a **convention**.
+You can rename or add other remotes:
+
+```bash
+git remote rename origin upstream
+git remote add backup https://github.com/user/backup.git
+```
+
+---
+
+**In short:**
+
+> 🔸 `origin` is just Git’s default nickname for your main remote repository — a shortcut to avoid typing the full URL every time.
+
+
+
