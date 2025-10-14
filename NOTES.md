@@ -5,6 +5,19 @@
 
 ---
 
+## OS
+
+- [Deadlock](https://github.com/themysterysolver/DEADLOCK/tree/main/NOTES)
+- [OS](https://github.com/themysterysolver/OS-and-LINUX/tree/main/NOTES)
+
+---
+
+## NETWORKS
+
+- [Networks](https://github.com/themysterysolver/COMPUTER-NETWORKS/tree/main/NOTES)
+
+
+---
 ## DBMS
 
 - [DBMS](https://github.com/themysterysolver/DBMS/tree/main/NOTES)
