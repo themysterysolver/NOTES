@@ -21,6 +21,7 @@ This doesn't fuss over global paths and stuff.
 It is a component based reac library. 
 It uses virtual DOM.In vanilla js we manage our DOM elements but in vite ot manages.Vanilla js is imperative proggraming paradigm.React is declarative pp.
 Imperative involes telling computer each and every step what to do and how to do.This is similar to vanilla js.Here we handle the real dom by us and our code whihc is slower.
+[React Vs Vannilla Js](https://medium.com/@mattidungafa/react-vs-vanilla-js-an-imperative-vs-declarative-story-8a5eedbff212)
 It is hard to manage each and every component on a scalable system.In declarative pp,we define what should happen for a UI state and react does the rest.
 Learning involves writing JSX instead of core js.System manages they state.
 
@@ -35,3 +36,7 @@ React updates only the changed part efficently than doing fully chnage.
 It is developed by Evan yu. vite means fast.He majorly used ES modules.
 ESMAScript is the standard system for sharing and packaging js code.wkt ES6 of 2015 has this import and export features.
 It is asynchronous in nature and it's with the type="module".
+
+## Imports in React
+
+Make sure all the export,imports,filename is the same.Filename should be same if it is a default import. If it is a named import we would use the const keyword. For default imports don't use {}.Because curly braces is used for named imports.
