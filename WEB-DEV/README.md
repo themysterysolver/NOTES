@@ -40,3 +40,26 @@ It is asynchronous in nature and it's with the type="module".
 ## Imports in React
 
 Make sure all the export,imports,filename is the same.Filename should be same if it is a default import. If it is a named import we would use the const keyword. For default imports don't use {}.Because curly braces is used for named imports.
+
+## React work space
+
+```
+function myComponent(){
+  //space to handle logics,hoooks,event listener and helper methods.
+  return (
+      //here we return JSX UI!
+)
+}
+```
+
+## .forEach and .map
+
+forEach doesn't return values and map returns the array it traverses.Thus we can't use it inside the curl braces where it should return JSX.
+Those curly braces are js expression containers ahm.
+
+## sending data across routes in react
+
+[How to pass and access data from one route to another with useLocation, useNavigate, useHistory hooks.](https://dev.to/esedev/how-to-pass-and-access-data-from-one-route-to-another-with-uselocation-usenavigate-usehistory-hooks-1g5m).
+we are using useNavigate,useLocation,useHistory,state propert to transfer data.
+
+
